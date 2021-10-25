@@ -9,7 +9,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBaggiebug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=22272E" />
 
-![twitch-rpx_syria](https://user-images.githubusercontent.com/76979204/138653968-5bac9aa1-3e9c-4258-a1db-1337904f4d97.gif)
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
 
