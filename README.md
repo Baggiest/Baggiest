@@ -10,6 +10,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrBaggieBug&count_private=true&show_icons=true&theme=dark" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="center" />
 <!--
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **MrBaggieBug/MrBaggieBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
