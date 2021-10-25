@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF" /><img src="https://img.shields.io/badge/-Jest-C64414?style=for-the-badge&logo=jest&logoColor=FFFFFF" /><img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=FFFFFF" /><img src="https://img.shields.io/badge/-Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge" /><img src="https://img.shields.io/badge/-Socket.IO-FFFFFF?style=for-the-badge&logo=socket.io&logoColor=000000" /><img src="http://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBaggieBug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark align="center" " /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrBaggieBug&count_private=true&show_icons=true&theme=dark" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact" align="center" />
 <!--
 **MrBaggieBug/MrBaggieBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
