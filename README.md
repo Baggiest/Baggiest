@@ -8,6 +8,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrBaggieBug&count_private=true&show_icons=true&theme=dark" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="center" />
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76979204/138648895-4acd480e-e1d2-4fef-ae5e-8e4e1da881e5.gif">
 <!--
 
 <!--START_SECTION:waka-->
