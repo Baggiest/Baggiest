@@ -9,7 +9,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBaggiebug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=22272E" />
 
-<img src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/f3f604c2-0955-43d8-8419-8dbc597239e8.svg">
+<img height="180em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/3bb58783-e258-4944-8c47-be6fed981f1f.svg">
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
 
