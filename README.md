@@ -9,7 +9,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBaggiebug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=22272E" />
 
-<img height="180em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/3bb58783-e258-4944-8c47-be6fed981f1f.svg">
+<img height="250em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/3bb58783-e258-4944-8c47-be6fed981f1f.svg" align="right">
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
 
@@ -22,7 +22,7 @@
 
 Hey im a young guy passionate about coding and cats
 
-- 🔭 I’m currently working on mostly fullstack webapps
+- 🔭 I’m currently working on mostly fullstack webapps and discord bots
 - 🌱 I’m currently learning rust hopefully
 - 💬 Ask me about JS backends frontends and stuff
 - 📫 How to reach me: at Discord **MrBaggieBug#0606**
