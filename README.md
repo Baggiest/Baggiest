@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left" /></a>
 
 Hey im a young guy passionate about coding and cats
 
