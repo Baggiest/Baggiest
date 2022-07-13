@@ -9,7 +9,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBaggiebug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=22272E" />
 
-<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=22272e&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" align="right" /></a>
+
 <img height="250em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/3bb58783-e258-4944-8c47-be6fed981f1f.svg" align="center">
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
@@ -20,6 +20,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Hey im a young guy passionate about coding and cats
 
