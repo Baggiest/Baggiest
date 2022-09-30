@@ -28,6 +28,6 @@ Hey im a young guy passionate about coding and cats
 - 🔭 I’m currently working on mostly fullstack webapps and discord bots
 - 🌱 I’m currently learning rust hopefully
 - 💬 Ask me about JS backends frontends and stuff
-- 📫 How to reach me: at Discord **MrBaggieBug#0606**
+- 📫 How to reach me: at Discord **Bag#2048**
 - ⚡ Fun fact: fun facts arent fun
 
