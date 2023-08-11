@@ -7,7 +7,8 @@
 <!--<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Baggiest&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=22272E" />
 -->
 
-<img height="400em" padding-left ="40px" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/ad3ca904-a50d-444c-8e7c-e4cfc10e2b51.svg" align="center">
+<p align="center"><img height="400em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/ad3ca904-a50d-444c-8e7c-e4cfc10e2b51.svg" align="center">
+</p>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
 
