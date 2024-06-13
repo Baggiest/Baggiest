@@ -31,4 +31,4 @@ Hey im a young guy passionate about coding and cats
 - 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** || mani@creact.gg
 - ⚡ Fun fact: These stats you see above, took me a long time to figure out how to center them
   
-<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="right" /></a>
+<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left" /></a>
