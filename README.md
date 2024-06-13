@@ -25,10 +25,10 @@
 
 Hey im a young guy passionate about coding and cats
 
-- 🔭 I’m currently working on mostly fullstack webapps and discord bots
-- 🌱 I’m currently learning rust hopefully
-- 💬 Ask me about JS backends frontends and stuff
-- 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest**
-- ⚡ Fun fact: These stats you see above, they took me a long time to figure out how to center them
+- 🔭 I’m currently working on my startup @ Creact.gg
+- 🌱 I’m currently learning low-level programming and ML/AI 
+- 💬 Ask me about life
+- 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** || mani@creact.gg
+- ⚡ Fun fact: These stats you see above, took me a long time to figure out how to center them
   
 <a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="right" /></a>
