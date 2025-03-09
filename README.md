@@ -25,7 +25,7 @@
 
 Hey im a young guy passionate about coding and cats
 
-- 🔭 I’m currently working on my startup @ centine.dev :3
+- 🔭 I’m currently working at a studio as a backend engineer
 - 🌱 Learning low-level programming and ML/AI 
 - 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** || **mani@centine.dev**
 - ⚡ Fun fact: These stats you see above, took me a long time to figure out how to center them
