@@ -13,8 +13,8 @@
 
 <p align="center"><img height="400em" src= "https://wakatime.com/share/@72bec217-9b00-468f-b8be-d763b0fb3fbf/ad3ca904-a50d-444c-8e7c-e4cfc10e2b51.svg" align="center">
 </p>
-
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaggieBug&theme=dark&layout=compact&hide border=true" align="right" />-->
+<p align="center"><img height="250em" src="https://api.boot.dev/v1/users/public/f87114da-6d79-44d6-8a01-4bff1e2d1b09/thumbnail" ></p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76979204/138652375-28a971d3-70f8-47a3-9830-233b1cb37a13.gif">
 <!--![YYM9cpL](https://user-images.githubusercontent.com/76979204/138652375-28a971d3-70f8-47a3-9830-233b1cb37a13.gif)
@@ -25,9 +25,9 @@
 
 Hey im a young guy passionate about coding and cats
 
-- 🔭 I’m currently working at a studio as a backend engineer
+- 🔭 I’m currently working at a studio as a backend engineer and enrolled in the boot.dev backend course
 - 🌱 Learning low-level programming and ML/AI 
-- 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** || **mani@centine.dev**
+- 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** 
 - ⚡ Fun fact: These stats you see above, took me a long time to figure out how to center them
   
-<a href="https://www.buymeacoffee.com/MrBaggieBug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=MrBaggieBug&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left" /></a>
+
