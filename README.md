@@ -1,4 +1,4 @@
-## <p align= "center">HEY HEY HEYYYYYYY 👋 </p> 
+## <p align= "center">HEY HEY HEYYYY 👋 </p> 
 
 ### <p align="center">Languages and Tech I got good at Instead of Socializing</p>
 
@@ -23,11 +23,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Hey im a young guy passionate about coding and cats
+I'm Mani E. Sohi
 
-- 🔭 I’m currently working at a studio as a backend engineer and enrolled in the boot.dev backend course
-- 🌱 Learning low-level programming and ML/AI 
-- 📫 How to reach me: at Discord **Baggie#2048** || **@Baggiest** 
-- ⚡ Fun fact: These stats you see above, took me a long time to figure out how to center them
-  
-
+Reach me: at Discord **Baggie#2048** || **@Baggiest** || rotstreet.com
+To know about me I ust send you to a quest to find my linkedin
