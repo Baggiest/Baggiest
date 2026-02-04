@@ -25,5 +25,5 @@
 
 I'm Mani E. Sohi
 
-Reach me: at Discord **Baggie#2048** || **@Baggiest** || rotstreet.com
-To know about me I ust send you to a quest to find my linkedin
+Reach me: at Discord **Baggie#2048** || **@Baggiest** || rotstreet.com <br>
+To know about me I must send you to a quest to find my linkedin
